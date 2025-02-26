@@ -52,7 +52,7 @@ with st.sidebar:
     st.write("💡 **Tip:** Upload your resume and paste a job description for analysis.")
 
 # ---------------------------- Main Content ---------------------------- #
-st.title("📄 AI Resume Analyzer")
+st.title("📄 Resume Analyzer")
 st.write("Analyze your resume against a job description and get insights.")
 
 # ---------------------------- File Handling ---------------------------- #
