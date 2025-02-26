@@ -22,7 +22,7 @@ SKILLS_DB = [
 
 # ---------------------------- Streamlit UI Configuration ---------------------------- #
 st.set_page_config(
-    page_title="AI Resume Analyzer",
+    page_title="Resume Analyzer",
     page_icon="📄",
     layout="wide",
     initial_sidebar_state="expanded"
