@@ -143,4 +143,4 @@ if uploaded_file:
         st.info("📌 Please enter a job description for analysis.")
 
 else:
-    st.info("📂 Please upload a resume to start analysis.")
+    st.info("📂 Please upload a resume to start analysis.") 
