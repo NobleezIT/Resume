@@ -44,7 +44,7 @@ st.markdown("""
 
 # ---------------------------- Sidebar ---------------------------- #
 with st.sidebar:
-    st.image("my_logo.png", width=300)  # Add your logo
+    st.image("3MTT.jpg", width=300)  # Add your logo
     st.title("📂 Upload Resume")
     uploaded_file = st.file_uploader("Choose a PDF file", type=["pdf"])
 
